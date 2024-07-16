@@ -1,0 +1,1 @@
+ /Users/geloandres/Documents/proyectos\ flutter/proyect_practic_concept/.dart_tool/flutter_build/4ad749ed8bbd588ebcd3ab7c8c93933f/native_assets.yaml: 
