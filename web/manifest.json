@@ -1,6 +1,6 @@
 {
-    "name": "proyect_practic_concept",
-    "short_name": "proyect_practic_concept",
+    "name": "widget_app_performance",
+    "short_name": "widget_app_performance",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
