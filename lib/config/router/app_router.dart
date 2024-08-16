@@ -16,4 +16,34 @@ final GoRouter goRouter = GoRouter(routes: <RouteBase>[
     builder: (BuildContext context, GoRouterState state) =>
         const ButtonsScreen(),
   ),
+  GoRoute(
+    path: '/Animated',
+    builder: (BuildContext context, GoRouterState state) =>
+        const AnimatedScreen(),
+  ),
+  GoRoute(
+    path: '/AppTutorial',
+    builder: (BuildContext context, GoRouterState state) =>
+        const AppTutorialScreen(),
+  ),
+  GoRoute(
+    path: '/Progress',
+    builder: (BuildContext context, GoRouterState state) =>
+        const ProgressScreen(),
+  ),
+  GoRoute(
+    path: '/Snackbar',
+    builder: (BuildContext context, GoRouterState state) =>
+        const SnackbarScreen(),
+  ),
+  GoRoute(
+    path: '/uicontrol',
+    builder: (BuildContext context, GoRouterState state) =>
+        const UiControlScreen(),
+  ),
+  GoRoute(
+    path: '/infinitescroll',
+    builder: (BuildContext context, GoRouterState state) =>
+        const InfiniteScrollScreen(),
+  ),
 ]);

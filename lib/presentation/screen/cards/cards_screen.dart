@@ -155,11 +155,11 @@ class _CardType4 extends StatelessWidget {
       color: colors.primary,
       child: Stack(
         children: [
-          Image.network(
-            'https://picsum.photos/id/${elevation.toInt()}/600/350',
-            fit: BoxFit.cover,
-            height: 350,
-          ),
+          //   Image.network(
+          //     'https://picsum.photos/id/${elevation.toInt()}/600/350',
+          //     fit: BoxFit.cover,
+          //     height: 350,
+          //   ),
           Align(
             alignment: Alignment.bottomRight,
             child: Container(
